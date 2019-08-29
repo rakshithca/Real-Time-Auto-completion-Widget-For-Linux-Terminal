@@ -22,4 +22,3 @@ Open a new terminal run the command python acwidget.py
 # Real-Time-Auto-completion-Widget-For-Linux-Terminal
 
 We introduced “Real-Time Auto-Completion Widget” alongside existing bash terminal. Two new features in real-time have been presented: Double Press Tab (generating possible completion words) and Man Pages. This widget displays the completion of commands in the set of 24 possibilities, and man pages on a scrollable window in two cases: when a command is completed on a terminal or when a button on the widget is clicked. Introduced a ‘lock’ button with which one can save the state of the widget and refer this state while working in the terminal.
->>>>>>> d8c6a2afb4fed0aa5bc6e585c7940a1bccef6617
